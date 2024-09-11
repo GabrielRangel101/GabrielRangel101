@@ -3,8 +3,8 @@
 
 <div>
   <img width="48" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="48" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
+  <img width="48" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" />
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
   <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />

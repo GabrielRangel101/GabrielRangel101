@@ -8,8 +8,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://img.icons8.com/?size=100&id=03aYi0fY0D9X&format=png&color=000000">
+  <img align="center" alt="SQL" height="30" width="40" src="https://img.icons8.com/?size=100&id=03aYi0fY0D9X&format=png&color=000000">
 </div>
  
 <br>

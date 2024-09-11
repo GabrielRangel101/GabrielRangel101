@@ -3,6 +3,7 @@
 
 <div>
   <img width="48" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />
+  <img width="48" src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" />
   <img width="48" src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" />
   <img width="48" src="https://img.icons8.com/?size=100&id=QSjnrUKYMnxO&format=png&color=000000" />
 </div>
